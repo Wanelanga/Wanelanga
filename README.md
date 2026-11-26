@@ -2,7 +2,7 @@
 <div align="center">
 
 <img
-  src="./perfil_circular_wane.png"
+  src="./wane_profile_circular.png"
   width="150"
   height="150"
   alt="Fotografia de Wane Langa"
