@@ -1,6 +1,13 @@
 
 <div align="center">
 
+<img
+  src="./profile.jpg"
+  width="150"
+  height="150"
+  alt="Fotografia de Wane Langa"
+/>
+
 # WANE LANGA
 
 ### Full Stack Developer
@@ -10,6 +17,7 @@ Desenvolvendo ideias. Construindo soluções. Evoluindo com tecnologia.
 [![GitHub](https://img.shields.io/badge/GitHub-Wanelanga-181717?style=for-the-badge&logo=github)](https://github.com/Wanelanga)
 
 </div>
+
 
 ---
 
